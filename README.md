@@ -1,4 +1,4 @@
-# 📊 Proyecto SQL: Gestión de Base de Datos de Películas (SAKILA)
+# 📊 Proyecto SQL: Gestión de Base de Datos de Películas (Sakila)
 
 ## 📌 Descripción
 
@@ -18,18 +18,10 @@
 - Workbench
 - Markdown
 - GitHub
+- Sakila Database
 ```
 
-## 📂 Estructura del Proyecto
 
-├── README.md
-├── dataset/
-│   └── database.sql           # Script para generar la base de datos
-├── queries/
-│   ├── select_queries.sql     # Consultas básicas SELECT
-│   ├── join_queries.sql       # Consultas con JOINs
-│   ├── agfregate_queries.sql  # Agregaciones COUNT, AVG
-│   ├── advanced_queries.sql   # Group By, Having
 
     
 
